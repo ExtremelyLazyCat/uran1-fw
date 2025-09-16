@@ -13,5 +13,5 @@ sudo ./install.sh
 The repository can be deleted afterwards:
 ```
 cd ..
-rm -R uran1-fw
+rm -rf uran1-fw
 ```
