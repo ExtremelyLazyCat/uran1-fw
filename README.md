@@ -5,6 +5,7 @@ To install:
 ```
 git clone https://github.com/ExtremelyLazyCat/uran1-fw.git
 cd uran1-fw
+chmod +x install.sh
 sudo ./install.sh
 ```
 ```--prefix``` can be passed to install.sh to specify a different usrp prefix:
